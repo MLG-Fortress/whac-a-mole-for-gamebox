@@ -13,7 +13,7 @@
 
     <distributionManagement>
         <repository>
-            <id>nikl-repo</id>
+            <id>jitpack.io</id>
             <url>https://repo.repsy.io/mvn/nikl/minecraft</url>
         </repository>
     </distributionManagement>
@@ -69,7 +69,7 @@
             <url>https://repo.purpurmc.org/snapshots</url>
         </repository>
         <repository>
-            <id>nikl-repo</id>
+            <id>jitpack.io</id>
             <url>https://repo.repsy.io/mvn/nikl/minecraft</url>
         </repository>
     </repositories>
@@ -94,6 +94,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <gamebox.version>3.4.0</gamebox.version>
+        <gamebox.version>4.0.0</gamebox.version>
     </properties>
 </project>
