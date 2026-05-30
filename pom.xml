@@ -14,7 +14,7 @@
     <distributionManagement>
         <repository>
             <id>jitpack.io</id>
-            <url>https://repo.repsy.io/mvn/nikl/minecraft</url>
+            <url>https://jitpack.io</url>
         </repository>
     </distributionManagement>
 
@@ -70,7 +70,7 @@
         </repository>
         <repository>
             <id>jitpack.io</id>
-            <url>https://repo.repsy.io/mvn/nikl/minecraft</url>
+            <url>https://jitpack.io</url>
         </repository>
     </repositories>
 
@@ -82,7 +82,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>me.nikl</groupId>
+            <groupId>com.github.MLG-Fortress</groupId>
             <artifactId>gamebox</artifactId>
             <version>${gamebox.version}</version>
             <scope>provided</scope>
